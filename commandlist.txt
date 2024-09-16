@@ -11,3 +11,6 @@ vi - Esc:x
 clear
 sudo apt update
 sudo apt upgrade
+head
+tail
+grep
